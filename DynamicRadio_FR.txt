@@ -1,0 +1,20 @@
+DynamicRadio_FR = {
+    AEBS_DarknessIsComing_Intro = "<bzzt> Six Six Six. <wzzt> Système de diffusion des anomalies de l'obscurité. <bzzt>",
+	AEBS_DarknessIsComing_24Hrs_1 = "Les capteurs atmosphériques ont détecté une augmentation des niveaux de particules anormales.",
+	AEBS_DarknessIsComing_24Hrs_2 = "ETA de l'Obscurité : Moins de 24 heures.",
+	AEBS_DarknessIsComing_24Hrs_3 = "Restez à l'écoute pour des rapports plus précis.",
+	AEBS_DarknessIsComing_24Hrs_4 = "L'obscurité arrive !",
+
+	AEBS_DarknessIsComing_Soon_1 = "Les capteurs atmosphériques ont détecté une augmentation des niveaux de particules anormales.",
+	AEBS_DarknessIsComing_Soon_2 = "ETA de l'Obscurité : Quelques heures.",
+	AEBS_DarknessIsComing_Soon_3 = "Calfeutrez vos portes et fenêtres.",
+	AEBS_DarknessIsComing_Soon_4 = "L'obscurité sera bientôt parmi nous !",
+
+	AEBS_DarknessIsComing_Imminent_1 = "Les capteurs atmosphériques ont détecté des niveaux élevés de particules anormales.",
+	AEBS_DarknessIsComing_Imminent_2 = "ETA de l'Obscurité : Imminent.",
+	AEBS_DarknessIsComing_Imminent_3 = "Trouvez un abri maintenant !",
+	AEBS_DarknessIsComing_Imminent_4 = "L'obscurité est là !",
+
+	AEBS_DarknessIsComing_Static_Approximately = "<bzzt> environ <wzzt>",
+	AEBS_DarknessIsComing_Static_Hours = "<wzzt> heures <bzzt>",
+}
